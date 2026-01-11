@@ -4,4 +4,4 @@
 
 // Insert Missing Function Prototype
 
-#endif // CALCULATOR_H
+#endif
